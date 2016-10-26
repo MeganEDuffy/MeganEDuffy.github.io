@@ -5,3 +5,5 @@
 - [_Foothills: The Unlinked Heritage of Snowboarding_](https://www.outsideonline.com/featured-videos)
 
 - [Yola Carter](https://www.youtube.com/watch?v=jV-KO-QN6r4)
+
+- UniProt's [Protein Spotlight](http://web.expasy.org/spotlight/) series written by Vivienne Baillie Gerritsen: awesome protein-centric stories!
