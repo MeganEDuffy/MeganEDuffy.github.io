@@ -7,3 +7,5 @@
 - [Yola Carter](https://www.youtube.com/watch?v=jV-KO-QN6r4)
 
 - UniProt's [Protein Spotlight](http://web.expasy.org/spotlight/) series written by Vivienne Baillie Gerritsen: awesome protein-centric stories!
+
+- [Elementa](https://www.elementascience.org/): an open access, public academic journal focusing on science of the anthropocene we all now live in
