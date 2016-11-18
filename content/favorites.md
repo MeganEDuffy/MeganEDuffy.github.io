@@ -9,3 +9,5 @@
 - UniProt's [Protein Spotlight](http://web.expasy.org/spotlight/) series written by Vivienne Baillie Gerritsen: awesome protein-centric stories!
 
 - [Elementa](https://www.elementascience.org/): an open access, public academic journal focusing on science of the anthropocene we all now live in
+
+- the San Diego Natural History Museum's permanent exhibit [_Extraordinary Ideas from Ordinary People: A History of Citizen Science_](http://www.sdnhm.org/exhibitions/current-exhibitions/extraordinary-ideas/).
