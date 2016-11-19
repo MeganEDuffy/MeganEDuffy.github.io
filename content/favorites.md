@@ -12,4 +12,4 @@
 
 - the San Diego Natural History Museum's permanent exhibit [_Extraordinary Ideas from Ordinary People: A History of Citizen Science_](http://www.sdnhm.org/exhibitions/current-exhibitions/extraordinary-ideas/).
 
-- The [Hospital Microbiome Project](http://hospitalmicrobiome.com/)(scary!)
+- The [Hospital Microbiome Project](http://hospitalmicrobiome.com/) (scary!)
