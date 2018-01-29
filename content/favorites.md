@@ -1,6 +1,6 @@
 ### Excited to read/see lately:
 
-- [Frescoes of Rajasthan, India](http://www.nytimes.com/interactive/2016/05/09/t-magazine/india-rajasthan-frescoes.html?_r=1) (_New York Times_)
+- [Frescoes of Rajasthan, India](http://www.nytimes.com/interactive/2016/05/09/t-magazine/india-rajasthan-frescoes.html?_r=1) (_The New York Times_)
 
 - [_Foothills: The Unlinked Heritage of Snowboarding_](https://www.outsideonline.com/featured-videos)
 
@@ -8,7 +8,7 @@
 
 - [Elementa](https://www.elementascience.org/): an open access, public academic journal focusing on science of the anthropocene in which we all now live
 
-- the San Diego Natural History Museum's permanent exhibit [_Extraordinary Ideas from Ordinary People: A History of Citizen Science_](http://www.sdnhm.org/exhibitions/current-exhibitions/extraordinary-ideas/
+- The San Diego Natural History Museum's permanent exhibit [_Extraordinary Ideas from Ordinary People: A History of Citizen Science_](http://www.sdnhm.org/exhibitions/current-exhibitions/extraordinary-ideas/
 
 - The [Hospital Microbiome Project](http://hospitalmicrobiome.com/) (bit scary)
 
