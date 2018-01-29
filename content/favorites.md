@@ -8,8 +8,8 @@
 
 - [Elementa](https://www.elementascience.org/): an open access, public academic journal focusing on science of the anthropocene we all now live in
 
-- the San Diego Natural History Museum's permanent exhibit [_Extraordinary Ideas from Ordinary People: A History of Citizen Science_](http://www.sdnhm.org/exhibitions/current-exhibitions/extraordinary-ideas/).
+- the San Diego Natural History Museum's permanent exhibit [_Extraordinary Ideas from Ordinary People: A History of Citizen Science_](http://www.sdnhm.org/exhibitions/current-exhibitions/extraordinary-ideas/
 
 - The [Hospital Microbiome Project](http://hospitalmicrobiome.com/) (bit scary)
 
-- [Lost crops of North America](https://ngmueller.net/2017/10/09/lost-crops-in-the-all-the-wrong-places/) (blog of Cornell archaeobotanist Natalie Mueller)
+- [Lost crops of North America](https://ngmueller.net/2017/10/09/lost-crops-in-the-all-the-wrong-places/): the blog of Cornell archaeobotanist Natalie Mueller
