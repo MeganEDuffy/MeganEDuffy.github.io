@@ -13,3 +13,7 @@
 - The [Hospital Microbiome Project](http://hospitalmicrobiome.com/) (bit scary)
 
 - [Lost crops of North America](https://ngmueller.net/2017/10/09/lost-crops-in-the-all-the-wrong-places/): the blog of Cornell archaeobotanist Natalie Mueller
+
+- NOAA's interactive [map of thermal springs in the continental US](https://maps.ngdc.noaa.gov/viewers/hot_springs/)
+
+- The [daily SET puzzle](https://www.setgame.com/set/puzzle)
