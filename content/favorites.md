@@ -4,12 +4,12 @@
 
 - [_Foothills: The Unlinked Heritage of Snowboarding_](https://www.outsideonline.com/featured-videos)
 
-- [Yola Carter](https://www.youtube.com/watch?v=jV-KO-QN6r4)
-
 - UniProt's [Protein Spotlight](http://web.expasy.org/spotlight/) series written by Vivienne Baillie Gerritsen: awesome protein-centric stories!
 
 - [Elementa](https://www.elementascience.org/): an open access, public academic journal focusing on science of the anthropocene we all now live in
 
 - the San Diego Natural History Museum's permanent exhibit [_Extraordinary Ideas from Ordinary People: A History of Citizen Science_](http://www.sdnhm.org/exhibitions/current-exhibitions/extraordinary-ideas/).
 
-- The [Hospital Microbiome Project](http://hospitalmicrobiome.com/) (scary!)
+- The [Hospital Microbiome Project](http://hospitalmicrobiome.com/) (bit scary)
+
+- [_Lost crops of North America_](https://ngmueller.net/2017/10/09/lost-crops-in-the-all-the-wrong-places/) (blog of Cornell archaeobotanist Natalie Mueller)
