@@ -1,6 +1,6 @@
 ### Excited to read/see lately:
 
-- [Frescoes of Rajasthan, India](http://www.nytimes.com/interactive/2016/05/09/t-magazine/india-rajasthan-frescoes.html?_r=1)(NY Times magazine)
+- [Frescoes of Rajasthan, India](http://www.nytimes.com/interactive/2016/05/09/t-magazine/india-rajasthan-frescoes.html?_r=1) (_New York Times_)
 
 - [_Foothills: The Unlinked Heritage of Snowboarding_](https://www.outsideonline.com/featured-videos)
 
