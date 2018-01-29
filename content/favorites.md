@@ -1,4 +1,4 @@
-### Excited to read lately:
+### Excited to read/see lately:
 
 - [Frescoes of Rajasthan, India](http://www.nytimes.com/interactive/2016/05/09/t-magazine/india-rajasthan-frescoes.html?_r=1)(NY Times magazine)
 
@@ -17,3 +17,5 @@
 - NOAA's interactive [map of thermal springs in the continental US](https://maps.ngdc.noaa.gov/viewers/hot_springs/)
 
 - The [daily SET puzzle](https://www.setgame.com/set/puzzle)
+
+- The [Brockman Memorial Tree Tour](http://www.cfr.washington.edu/BrockmanTreeTour/) of the University of Washington Seattle campus (not yet including the gum trees by the Marine Sciences Building, but do check those out!)
