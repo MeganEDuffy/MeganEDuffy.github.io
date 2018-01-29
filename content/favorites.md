@@ -1,4 +1,4 @@
-### Into this lately
+### Excited to read lately:
 
 - [Rajasthan Frescoes](http://www.nytimes.com/interactive/2016/05/09/t-magazine/india-rajasthan-frescoes.html?_r=1)
 
@@ -12,4 +12,4 @@
 
 - The [Hospital Microbiome Project](http://hospitalmicrobiome.com/) (bit scary)
 
-- [_Lost crops of North America_](https://ngmueller.net/2017/10/09/lost-crops-in-the-all-the-wrong-places/) (blog of Cornell archaeobotanist Natalie Mueller)
+- [Lost crops of North America](https://ngmueller.net/2017/10/09/lost-crops-in-the-all-the-wrong-places/) (blog of Cornell archaeobotanist Natalie Mueller)
