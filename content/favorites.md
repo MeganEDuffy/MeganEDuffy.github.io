@@ -19,3 +19,5 @@
 - The [daily SET puzzle](https://www.setgame.com/set/puzzle)
 
 - The [Brockman Memorial Tree Tour](http://www.cfr.washington.edu/BrockmanTreeTour/) of the University of Washington Seattle campus (not yet including the gum trees by the Marine Sciences Building, but do check those out!)
+
+- [Beaver dam 'analogues'](http://www.okanoganhighlands.org/restoration/myers-creek): a Myers Creek, WA restoration project by the Okanogan Highlands Alliance. 
