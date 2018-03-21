@@ -21,3 +21,9 @@
 - The [Brockman Memorial Tree Tour](http://www.cfr.washington.edu/BrockmanTreeTour/) of the University of Washington Seattle campus (not yet including the gum trees by the Marine Sciences Building, but do check those out!)
 
 - [Beaver dam 'analogues'](http://www.okanoganhighlands.org/restoration/myers-creek): a Myers Creek, WA restoration project by the Okanogan Highlands Alliance. 
+
+- [Dear Data](http://www.dear-data.com/): a year-long collaborative 'quotidian' data visualization project from Giogia Lupi and Stefanie Posavec.
+
+- The [Seattle Poetic Grid](https://seattlepoeticgrid.com/): from Seattle's first Civic Poet (2015-2017) [Claudia Castro Luna](http://www.castroluna.com/), an interactive map of poetry all over the city. "We live in the city and the city lives in us".
+
+- [Flukebook](https://www.flukebook.org/): cataloging humpback whale encounters with machine learning!
