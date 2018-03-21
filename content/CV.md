@@ -1,7 +1,9 @@
 ## Megan E Duffy
 
-154 NE 52nd St  
+11557 Evanston Ave N 
 Seattle, WA  
-98105
+98133
+
+802 279 8715
 
 CV info here
