@@ -1,20 +1,20 @@
 ### Current research projects:
 
-Exploring carbon cycling and particualte organic matter flux in a oxygen-deficient zone
+- Exploring carbon cycling and particualte organic matter flux in a oxygen-deficient zone
 
-Determining the promise of _de novo_ peptide sequences in studies of marine organic matter degradation
+- Determining the promise of _de novo_ peptide sequences in studies of marine organic matter degradation
 
 ### Research cruises:
 
-2017: Eastern Tropical North Pacific (Oxygen-Deficient Zone) on the _R/V Sikuliaq_. [Check out blog here.](https://hohohomz.wordpress.com/)
+- 2017: Eastern Tropical North Pacific (Oxygen-Deficient Zone) on the _R/V Sikuliaq_. [Check out blog here.](https://hohohomz.wordpress.com/)
 
-2018: Eastern Tropical North Pacific (Oxygen-Deficient Zone) on the _R/V Roger Revelle_. [Blog here.](https://springatsea2018.wordpress.com/)
+- 2018: Eastern Tropical North Pacific (Oxygen-Deficient Zone) on the _R/V Roger Revelle_. [Blog here.](https://springatsea2018.wordpress.com/)
 
 ### Outreach and education:
 
-[AOG Oceanography High School Interns](http://blogs.uw.edu/oceanhs/)
+- [AOG Oceanography High School Interns](http://blogs.uw.edu/oceanhs/)
 
-[@SoundScholars](https://www.instagram.com/soundscholars/)
+- [@SoundScholars](https://www.instagram.com/soundscholars/)
 
 ### Other interests!
 
